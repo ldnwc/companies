@@ -1,0 +1,25 @@
+[{
+  "name": "Kano",
+  "url": "https://kano.me/",
+  "description": "",
+  "projects": ["The code editor is implemented using web components."],
+  "tools": ["Polymer"]
+},{
+  "name": "CENTURY Tech",
+  "url": "https://century.tech/",
+  "description": "Cloud-based education platform. Harnessing artificial intelligence, big data technology and neuroscience to improve learning outcomes.",
+  "projects": [],
+  "tools": ["Polymer"]
+},{
+  "name": "NET-A-PORTER",
+  "url": "https://www.net-a-porter.com",
+  "description": "Shop designer fashion online at NET-A-PORTER.COM. Designer clothes, designer shoes, designer bags and designer accessories from top designer brands: Christian Louboutin, Matthew Williamson, Alexander McQueen, Marc Jacobs and more...",
+  "projects": [],
+  "tools": []
+},{
+  "name": "Toaster",
+  "url": "https://toaster.co/",
+  "description": "Independent digital agency specialising in creativity, design and technology. With headquarters in London and offices in San Francisco, Singapore and India.",
+  "projects": [],
+  "tools": ["Polymer"]
+}]
